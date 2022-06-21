@@ -1,0 +1,15 @@
+C:\Users\jaram\source\repos\RoomCalc\bin\Debug\net6.0\RoomCalc.exe
+C:\Users\jaram\source\repos\RoomCalc\bin\Debug\net6.0\RoomCalc.deps.json
+C:\Users\jaram\source\repos\RoomCalc\bin\Debug\net6.0\RoomCalc.runtimeconfig.json
+C:\Users\jaram\source\repos\RoomCalc\bin\Debug\net6.0\RoomCalc.dll
+C:\Users\jaram\source\repos\RoomCalc\bin\Debug\net6.0\RoomCalc.pdb
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\RoomCalc.csproj.AssemblyReference.cache
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\RoomCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\RoomCalc.AssemblyInfoInputs.cache
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\RoomCalc.AssemblyInfo.cs
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\RoomCalc.csproj.CoreCompileInputs.cache
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\RoomCalc.dll
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\refint\RoomCalc.dll
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\RoomCalc.pdb
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\RoomCalc.genruntimeconfig.cache
+C:\Users\jaram\source\repos\RoomCalc\obj\Debug\net6.0\ref\RoomCalc.dll
