@@ -46,4 +46,5 @@ else if (area > 650.0)
 
 }
 
+Console.WriteLine("Thank you for using the room calculator!");
 
